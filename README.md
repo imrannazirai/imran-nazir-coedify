@@ -18,4 +18,4 @@ I'm improving my full-stack development skills by working on product features, b
 ## Contact
 
 - GitHub: [@imran-nazir-coedify](https://github.com/imran-nazir-coedify)
-- LinkedIn: Add your LinkedIn URL
+- LinkedIn: [@imran-nazir-)(https://www.linkedin.com/in/imran-nazir-/)
