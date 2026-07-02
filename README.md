@@ -2,30 +2,7 @@
 
 I'm an early-career software developer working at CoEdify.
 
-At CoEdify, I have contributed to two main projects: Revsko and DevSko. My work has included frontend features, UI fixes, backend API changes, database-related updates, and test improvements.
-
-## What I Worked On
-
-### Revsko
-
-I contributed to the Revsko platform by working on operator-facing UI and backend support work.
-
-- Improved tables, filters, search, pagination, and sorting in the app UI
-- Worked on breadcrumbs, page headers, navigation, and layout consistency
-- Helped with contact, company, account, workflow, and approval-related screens
-- Made Go backend fixes for APIs, validation, sorting, and test stability
-- Worked with TypeScript execution-service code related to workflow and agent flows
-- Added and updated frontend, backend, and E2E tests
-
-### DevSko
-
-I contributed to DevSko by working on hiring, assessment, and candidate-related product flows.
-
-- Built and fixed React/Next.js UI screens for assessments, job posts, reports, and candidate workflows
-- Fixed form, table, routing, loading-state, and page-rendering issues
-- Integrated and adjusted frontend API payloads for product flows
-- Contributed to Go backend API changes for job applications, communication history, validation, and logging
-- Worked on managed-hiring and assessment-related bugs and refinements
+I work on frontend and backend features across products like DevSko and Revsko. Most of my recent work has involved React/Next.js, TypeScript, Go APIs, PostgreSQL, UI fixes, API integrations, and tests.
 
 ## Tech I Work With
 
@@ -36,7 +13,7 @@ I contributed to DevSko by working on hiring, assessment, and candidate-related 
 
 ## Current Focus
 
-I'm improving my full-stack development skills by working on real product features, bug fixes, UI workflows, backend APIs, and test coverage.
+I'm improving my full-stack development skills by working on product features, bug fixes, UI workflows, backend APIs, and test coverage.
 
 ## Contact
 
